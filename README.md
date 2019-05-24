@@ -1,3 +1,3 @@
 # Unicorn
 Best thing ever!
-With a little bit of JavaScript
+With a little bit of JavaScript.
